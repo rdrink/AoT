@@ -1,0 +1,5 @@
+AoT sensor board and shield notes
+
+- change SMDs to thru-hole
+- add i2c test header
+- separate i2c power from other sensors, with control?
