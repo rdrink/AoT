@@ -1,0 +1,168 @@
+Sensors: 
+
+    A. Sparkfun:
+    
+        1. RHT03 
+        https://www.sparkfun.com/products/10167
+        2. TMP102 
+        https://www.sparkfun.com/products/9418
+        3. DS18B20 
+        https://www.sparkfun.com/products/11050
+        4. SHT15 
+        https://www.sparkfun.com/products/8257
+        5. HIH6130 
+        https://www.sparkfun.com/products/11295
+        6. HIH-4030 
+        https://www.sparkfun.com/products/9569
+        7. Logic Level Converter Bi-Directional 
+        https://www.sparkfun.com/products/12009
+        8. MMA8452Q Accelerometer (Quantity 6)
+        https://www.sparkfun.com/products/12756
+    
+    
+    Modern:
+    
+        9. Ambient Light Sensor 
+        http://moderndevice.com/product/ambi-light-sensor/
+        
+        10. TMP421 
+        http://moderndevice.com/product/tmp421-temp-sensor/
+        
+    Ada:
+        
+        11. BMP180 
+        http://www.adafruit.com/products/1603
+        
+        12.  MAX4466 
+        http://www.adafruit.com/products/1063
+        
+    Newark:
+    
+        13. SHT75 
+        http://www.newark.com/sensirion/sht75/humidity-sensor/dp/18M2988
+        
+    Digikey:
+    
+       14. MLX90614ESFDAA-000-TU-ND
+       http://www.digikey.com/product-detail/en/MLX90614ESF-DAA-000-TU/MLX90614ESF-DAA-000-TU-ND/1647942
+       
+       15.THERMISTOR NTC 10K OHM +/-0.05C
+       http://www.digikey.com/product-search/en?vendor=0&keywords=615-1069-ND
+       
+       16. PHOTOCELL 27-60KOHM
+       http://www.digikey.com/product-search/en?KeyWords=PDV-P8104-ND
+       
+       17. D6T44L06 PIR SENSOR 4X4 PIXEL THERMAL PCB 
+       http://www.digikey.com/product-search/en?KeyWords=Z3637-ND
+       
+       
+        Connectors and headers:
+        
+            1. CONN GH HOUSING 4POS 1.25MM for D6T44L06
+            http://www.digikey.com/product-search/en?KeyWords=455-1594-ND
+            
+            2. 16POS SIL RIGHT ANGLE PIN HEADER (2 per board - Motorola design only)
+            http://www.digikey.com/product-search/en?KeyWords=952-1860-ND
+            
+            3. CONN HEADER .100" SNGL STR 40POS (3 per board)
+            http://www.digikey.com/product-detail/en/PREC040SAAN-RC/S1012EC-40-ND/2774814
+            
+            4.  POLYSWITCH RXE SERIES 0.25A HOLD
+            http://www.digikey.com/product-detail/en/A85432-000/A85432-000-ND/1045823
+            
+            5. Resis tor 4.7 K 5% AXIAL
+            http://www.digikey.com/product-detail/en/CF14JT4K70/CF14JT4K70CT-ND/1830366
+            
+            6. Resistor 330 Ohm 5% AXIAL
+            http://www.digikey.com/product-detail/en/CF14JT330R/CF14JT330RCT-ND/1830338
+            
+            7. RES 68.1K OHM 0.6W 1% AXIAL 
+            http://www.digikey.com/product-detail/en/MRS25000C6812FRP00/PPC68.1KZCT-ND/595082
+            
+            8. RES 4.70K OHM 0.6W 1% AXIAL
+            http://www.digikey.com/product-detail/en/1622500-1/A105962CT-ND/3477542
+            
+            9. Logic Level Converter Bi-Directional BOB-12009
+            https://www.sparkfun.com/products/12009
+            
+    System Vitals:      
+        
+        1. Thermistor THERMISTOR NTC 10K OHM 3% PROBE: (Several per Node)
+        http://www.digikey.com/product-detail/en/B57500M103A5/495-2172-ND/739868
+        
+        2. Humidity Sensor Breakout - HTU21D SEN-12064
+        https://www.sparkfun.com/products/12064
+    
+
+Compute: 
+
+ODROID-U3 
+http://www.hardkernel.com/main/products/prdt_info.php?g_code=G138745696275
+
+Arduino Mega
+http://www.digikey.com/product-detail/en/A000067/1050-1018-ND/2639006
+
+Arduino Mini 
+http://www.digikey.com/product-detail/en/A000088/1050-1044-ND/3476364
+
+Arduino Micro
+http://www.digikey.com/product-detail/en/A000053/1050-1066-ND/4486332
+
+
+System Controller: 
+
+
+
+
+
+Interconnects: 
+
+
+
+
+
+
+
+
+
+System:
+
+    
+
+    Power:
+        Poweradd™ 50W 6-Port
+        http://www.amazon.com/Poweradd-Family-Sized-Desktop-Charger-Smartphones/dp/B00KHP6UVQ
+
+        Or 
+
+        Photive 50 Watt 6 Port
+        http://www.amazon.com/Photive-Desktop-Charger-Intelligent-Technology/dp/B00LMIA9L4
+
+        or 
+
+        SHARKK® 50W 6-Port 
+        http://www.amazon.com/SHARKK®-Family-Sized-Desktop-Smartphones-USB-Powered/dp/B00GOWUO0O/
+
+
+    Network:
+
+        Switch:
+            KEEBOX-SGE05
+            http://www.amazon.com/KEEBOX-SGE05-1000Mbps-Gigabit-Ethernet/dp/B004FM58MO/
+
+        Wifi (Will get WiFi from APs on Campuses):
+            TP-LINK TL-WR702N
+            http://www.amazon.com/TP-LINK-TL-WR702N-Wireless-Repeater-150Mpbs/dp/B007PTCFFW
+
+
+        Cellular:
+            TP-Link TL-MR3020
+            http://www.amazon.com/TP-LINK-TL-MR3020-Wireless-Portable-Router/dp/B00634PLTW/ref=sr_1_1?s=electronics&ie=UTF8&qid=1408977737&sr=1-1&keywords=TP-Link+TL-MR3020
+
+        Dongle: 
+            Pantech UML290
+            http://www.amazon.com/Verizon-Wireless-Pantech-Aircard-UML290/dp/B005ESVW96/
+
+
+
+
