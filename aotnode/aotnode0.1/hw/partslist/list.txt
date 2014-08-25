@@ -111,24 +111,57 @@ http://www.digikey.com/product-detail/en/A000053/1050-1066-ND/4486332
 
 System Controller: 
 
+1. Relay
+
+2. Power Barrel Female
+
+3. USB Power Cable
+
+4. Fuse
+
+5. Fuse
+
+5. Resistor
+
+6. CONN USB TYPE A R/A VERTICAL
+http://www.digikey.com/product-search/en?KeyWords=ED2991-ND
+
+7. USB Micro and Mini 
+
+8. RTC 
+
+9. 
+
+
+
+
 
 
 
 
 Interconnects: 
 
+1. Ethernet Cables: (1 5-Pack) Cat6 Snagless Ethernet Patch Cable in Blue 3 Feet
+http://www.amazon.com/Cable-Matters-5-Pack-Snagless-Ethernet/dp/B00E5I7UF6/
+
+2. Ethernet Cables: (1 5-Pack) Cat6 Snagless Ethernet Patch Cable in Blue 2 Feet
+http://www.amazon.com/Cable-Matters-5-Pack-Snagless-Ethernet/dp/B00HEM5ZEI
 
 
+Storage:
 
+1. SD Cards 
+SanDisk Ultra 16GB MicroSDHC Class 10 UHS Memory Card
+http://www.amazon.com/SanDisk-MicroSDHC-Adapter-Frustration-Free-Packaging/dp/B009QZH7D8/
 
+USB Cables
 
-
+Odroid Cable
+1. CABLE ASSY R/A 0.7MM 6' 24 AWG
+http://www.digikey.com/product-search/en?KeyWords=CP-2196-ND
 
 
 System:
-
-    
-
     Power:
         Poweradd™ 50W 6-Port
         http://www.amazon.com/Poweradd-Family-Sized-Desktop-Charger-Smartphones/dp/B00KHP6UVQ
@@ -145,7 +178,6 @@ System:
 
 
     Network:
-
         Switch:
             KEEBOX-SGE05
             http://www.amazon.com/KEEBOX-SGE05-1000Mbps-Gigabit-Ethernet/dp/B004FM58MO/
