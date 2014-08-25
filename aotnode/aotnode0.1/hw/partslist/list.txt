@@ -130,7 +130,19 @@ http://www.digikey.com/product-search/en?KeyWords=ED2991-ND
 
 8. RTC 
 
-9. 
+9. Transistor
+
+10. Diode
+
+11. Resistor 3.3 V 
+
+12. 5V 3.3V voltage converter
+
+13. Trigger Switch
+
+14. Current Sensor 
+
+15. Capacitors 
 
 
 
