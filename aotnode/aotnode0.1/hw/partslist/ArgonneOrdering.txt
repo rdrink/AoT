@@ -1,0 +1,86 @@
+Abra electronics: 40 each ~         $6,532.40
+ 
+     http://www.abra-electronics.com/products/SEN%252d10167-Humidity-and-Temperature-Sensor-%252d-RHT03.html
+     http://www.abra-electronics.com/products/SEN%252d08257-Humidity-and-Temperature-Sensor-%252d-SHT15-Breakout.html
+     http://www.abra-electronics.com/products/SEN%252d09569-Humidity-Sensor-%252d-HIH%252d4030-Breakout.html
+     http://www.abra-electronics.com/products/SEN%252d11050-Temperature-Sensor-%252d-Waterproof-%28DS18B20%29.html
+     http://www.abra-electronics.com/products/SEN%252d11295-HIH6130-Humidity-Sensor-Breakout.html
+     http://www.abra-electronics.com/products/SEN%252d12064-HTU21D-Humidity-Sensor-Breakout.html
+     http://www.abra-electronics.com/products/SEN%252d12756-Triple-Axis-Accelerometer-Breakout-%252d-MMA8452Q.html
+     http://www.abra-electronics.com/products/SEN%252d11931-Digital-Temperature-Sensor-Breakout-%252d-TMP102.html
+     http://www.abra-electronics.com/products/1603%252dADA-BMP180-Barometric-Pressure%7B47%7DTemperature%7B47%7DAltitude-Sensor%252d-5V-ready-.html
+     http://www.abra-electronics.com/products/1063-Electret-Microphone-Amplifier-%252d-MAX4466-with-Adjustable-Gain.html
+     http://www.abra-electronics.com/products/BOB%252d12009-Logic-Level-Converter-Bi%252dDirectional.html
+ 
+ 
+Newark: 40 each ~  $1,498.00
+     http://www.newark.com/sensirion/sht75/humidity-sensor/dp/18M2988
+ 
+ 
+Modern Device: 40 each ~ $475.20
+ 
+     http://moderndevice.com/product/ambi-light-sensor/
+     http://moderndevice.com/product/tmp421-temp-sensor/
+ 
+McMaster:  $6703.41
+     http://www.mcmaster.com/order/rcvRtedOrd.aspx?ordid=5792773843256&lnktyp=lnk
+ 
+Digikey: $6,497.17
+http://www.digikey.com/classic/Ordering/OrderStatus.aspx?web_id=115895673&access_id=91826
+ 
+ 
+Amazon:  $1,887.97
+ 
+     Cable Matters 2-Pack, Right Angle SuperSpeed USB 3.0 Male to Female Adapter  -  Quantity 3
+     http://www.amazon.com/gp/product/B00J4NLOOU
+ 
+     HDE USB 3.0 Right Angle Male to Female Cable - Quantity 15
+     http://www.amazon.com/gp/product/B009LJCABS
+ 
+     StarTech.com 2m USB 2.0 A to Left Angle B Cable Cord, Black (USBAB2ML) - Quantity 10
+     http://www.amazon.com/gp/product/B00GOBM6OC
+ 
+     TP-LINK TL-MR3020 3G/4G Wireless N150 Portable Router, AP/WISP/Router Mode - Quantity 15
+     http://www.amazon.com/gp/product/B00634PLTW
+ 
+     YCS Basics Black USB 3.0 Male A To Right Angle Female A Adapter - Quantity 5
+     http://www.amazon.com/gp/product/B00B5HS95A
+ 
+     KEEBOX SGE05 5-Port 10/100/1000Mbps Gigabit Ethernet Switch - Quantity 15
+     http://www.amazon.com/gp/product/B004FM58MO
+ 
+     SHARKK® 50W 6-Port USB Wall Plug - Quantity 5
+     http://www.amazon.com/gp/product/B00GOWUO0O
+ 
+     Photive 50 Watt 6 Port USB Desktop Rapid Charger - Quantity 5
+     http://www.amazon.com/gp/product/B00LMIA9L4
+ 
+     Poweradd&trade; 50W 6-Port Family-Sized USB Desktop Charger - Quantity 5
+     http://www.amazon.com/gp/product/B00KHP6UVQ
+ 
+     SanDisk Ultra 16GB MicroSDHC Class 10 UHS - Quantity 15
+     http://www.amazon.com/gp/product/B009QZH7D8
+ 
+     StarTech.com 1m USB 2.0 A to Left Angle B Cable Cord, Black (USBAB1ML) - Quantity 5
+     http://www.amazon.com/gp/product/B00GURMTTC
+ 
+     Cable Matters 5-Pack, Cat6 Snagless Ethernet Patch Cable in Blue 3 Feet - Flat Series - Quantity 5
+     http://www.amazon.com/gp/product/B00E5I7UF6
+ 
+     Cable Matters 5-Pack, Cat6 Snagless Ethernet Patch Cable in Blue 2 Feet - Flat Series - Quantity 5
+     http://www.amazon.com/gp/product/B00HEM5ZEI
+ 
+     Cable Matters 3 Pack, Gold Plated Hi-Speed USB 2.0 Type A to Micro-B Cable 3 Feet - Quantity 10
+     http://www.amazon.com/gp/product/B00IG9LSGM
+ 
+     Cable Matters 3 Pack, Gold Plated Hi-Speed USB 2.0 Type A to Mini-B Cable 3 Feet - Quantity 10
+     http://www.amazon.com/gp/product/B007NLW3C2
+ 
+     StarTech.com USB2TYPEM 3 Feet USB to Type M Barrel 5V DC Power Cable - Quantity 15
+     http://www.amazon.com/gp/product/B003MQO96U
+ 
+Odroid U3: $3,100.00
+ 
+     40 x ODROID-U3
+     20 x 8GB eMMC Module U Linux
+ 
